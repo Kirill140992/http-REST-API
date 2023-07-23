@@ -1,0 +1,2 @@
+bind_adder = ":8080"
+log_level = "debug"
